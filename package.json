@@ -1,0 +1,10 @@
+{
+  "name": "my-motion-app",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "motion": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
